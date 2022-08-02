@@ -1,0 +1,65 @@
+{
+  "name": "Cronos Token List",
+  "timestamp": "2022-07-20T00:40:00.000Z",
+  "version": {
+    "major": 21,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://photonswap.finance/cro.png",
+  "keywords": [
+    "CRONOS",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped CRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "symbol": "wCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/cro.png"
+    },
+    {
+      "name": "DexPad Token",
+      "address": "0xe0c41FF9a7032de445771E12C14868CbE061C993",
+      "symbol": "DxP",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/dxp.png"
+    },
+    {
+      "name": "IcyCRO",
+      "address": "0x8F857Af6Ea31447Bb502fE0E3F4e4340CDFCfc6C",
+      "symbol": "ICY",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://pbs.twimg.com/profile_images/1437465162697646081/r_gd5J0c_400x400.jpg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/wrappedETH.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/wrappedBTC.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/USDC.png"
+    }
+  ]
+}
