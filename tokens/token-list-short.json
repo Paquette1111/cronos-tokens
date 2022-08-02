@@ -1,0 +1,41 @@
+{
+  "name": "Cronos Token List",
+  "timestamp": "2022-07-20T00:40:00.000Z",
+  "version": {
+    "major": 21,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://photonswap.finance/cro.png",
+  "keywords": [
+    "CRONOS",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped CRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "symbol": "wCRO",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/cro.png"
+    },
+    {
+      "name": "PhotonSwap",
+      "address": "0xbdd4e5660839a088573191A9889A262c0Efc0983",
+      "symbol": "PHOTON",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/photon.png"
+    },
+    {
+      "name": "DexPad Token",
+      "address": "0xe0c41FF9a7032de445771E12C14868CbE061C993",
+      "symbol": "DxP",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/dxp.png"
+    }
+  ]
+}
