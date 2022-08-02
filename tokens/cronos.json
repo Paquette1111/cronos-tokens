@@ -36,6 +36,174 @@
       "decimals": 18,
       "chainId": 25,
       "logoURI": "https://photonswap.finance/dxp.png"
+    },
+    {
+      "name": "IcyCRO",
+      "address": "0x8F857Af6Ea31447Bb502fE0E3F4e4340CDFCfc6C",
+      "symbol": "ICY",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://pbs.twimg.com/profile_images/1437465162697646081/r_gd5J0c_400x400.jpg"
+    },
+    {
+      "name": "CrystalToken",
+      "address": "0xCbDE0E17d14F49e10a10302a32d17AE88a7Ecb8B",
+      "symbol": "CRYSTL",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/crystl.jpeg"
+    },
+    {
+      "name": "Elk",
+      "address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+      "symbol": "ELK",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://i.imgur.com/nwShsIt.png"
+    },
+    {
+      "name": "Tendies",
+      "address": "0x2fDcB16a977921FaDac3A9E03D18aDa77B4aA3F5",
+      "symbol": "TENDIES",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/tendiefrenco/tendies/main/logo%20128x128.png"
+    },
+    {
+      "name": "The Crocodile Token",
+      "address": "0x6665D66aFA48F527d86623723342CfA258cB8666",
+      "symbol": "CROX",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://crox.cc/assets/img/logo.png"
+    },
+    {
+      "name": "CROVID-19",
+      "address": "0x7F7BE9FD8a2d36ebf55faC9a062AaA738C114BE6",
+      "symbol": "CROVID",
+      "decimals": 4,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/crovid.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/wrappedETH.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "symbol": "BTC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/wrappedBTC.png"
+    },
+    {
+      "name": "Tether",
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/TETHER.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/DAI.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/photonswap-dev/default-token-list/master/logos/shared/USDC.png"
+    },
+    {
+      "name": "ESSO",
+      "address": "0xc82eA25896F065cB6E3ae298cD1f23FE58516A35",
+      "symbol": "ESSO",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://photonswap.finance/esso.png"
+    },
+    {
+      "name": "CROCOS",
+      "address": "0x34bAC19d5EAd9f92252eA81Ca9014799C32ff123",
+      "symbol": "CRC",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://i.ibb.co/WFD1B3Z/logo.png"
+    },
+    {
+      "name": "Cro-Magnon Plan",
+      "address": "0x422c93ADf13B74540DcdB99e8D75Aa3841809A0f",
+      "symbol": "CMP",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://static.wixstatic.com/media/c53232_29ee50f2e8914585a9f22461cff72358~mv2.png"
+    },
+    {
+      "name": "DeliverCoin",
+      "address": "0x058EebF75265022Acb0Ece05D9d61082E3e46c75",
+      "symbol": "DLC",
+      "decimals": 8,
+      "chainId": 25,
+      "logoURI": "https://static.wixstatic.com/media/2a0d11_9fc2bb2f9f9a4202bdb9a336a61da716~mv2.png"
+    },
+    {
+      "name": "Stabil",
+      "address": "0x80991d751Eb39dcD86FCcd19b261c39215795094",
+      "symbol": "STABIL",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://stabil.finance/logo512.png"
+    },
+    {
+      "name": "OnlyCryptoFans",
+      "address": "0xC7138Ccf4Fd367E89F8Cd465d802bB952D0737a7",
+      "symbol": "ONCRF",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/ONCRF/ONCRF-Token-List/main/logo256.png"
+    },
+    {
+      "name": "UtilityCRO",
+      "address": "0x30078453DEaD93bdBC31b9A18AC0a6ece171F459",
+      "symbol": "UCRO",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://i.imgur.com/KTJkmWX.jpg"
+    },
+    {
+      "name": "EverCro",
+      "address": "0x34E2009063289c0fAa012047780381D49c9fd483",
+      "symbol": "EVER",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://uploads-ssl.webflow.com/624f203a5acf8a53c20c3f50/625bde396b16f5a49839df6d_Evercrologo12.png"
+    },
+    {
+      "name": "CleanMafia",
+      "address": "0xb5E503f0efd839113192640Da5bCA5E233Ed9e83",
+      "symbol": "CroCLEAN",
+      "decimals": 9,
+      "chainId": 25,
+      "logoURI": "https://pbs.twimg.com/profile_images/1538052907987132417/-lWu8YWi_400x400.jpg"
+    },
+    {
+      "name": "CGX Token",
+      "address": "0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c",
+      "symbol": "CGX",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://cgx.finance/images/tokens/0x40fF4581cF2d6e4E07b02034105D6435d4f3F84c.svg"
     }
   ]
 }
